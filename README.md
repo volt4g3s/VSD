@@ -1,6 +1,6 @@
-# Android Lock Screen Ransomware Virus using Administrator Privileges
+# VSD (Virus Screen Death)
 
-## Brief Description
+## Description
 This virus is designed to take control of Android devices by exploiting administrator permissions. Once installed, it locks the device's screen and displays a fake interface demanding access permissions from the user.
 
 ## Key Features

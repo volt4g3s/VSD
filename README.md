@@ -18,7 +18,7 @@ If your device is infected, consider the following steps:
 - **Professional Help**: If you're having difficulty removing the virus, seek assistance from professional service providers or software support.
 
 ## DISCLAIMER
-Please do not install it.  Use of this application is entirely at the user's own risk.  We are not responsible for any losses or problems arising from the use of this application.
+Please do not install it, because this is only for learning.  Use of this application is entirely at the user's own risk.  We are not responsible for any losses or problems arising from this application.
 
 ---
 

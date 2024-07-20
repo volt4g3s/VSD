@@ -2,14 +2,14 @@
 This virus is designed to take control of Android devices by exploiting administrator permissions.  Once installed, it displays a fake interface that demands access permission from the user and locks the device screen repeatedly every second.  For this reason, I recommend not installing it because this is only for learning purposes.
 
 ## KEY FEATURES
-- **Screen Locking**: Upon installation, the virus locks the device's screen, preventing access to legitimate functions.
+- **Background**: Once installed, the virus will run in the background repeatedly locking the device screen every second, preventing access to legitimate functions.
 - **Administrator Permission Request**: The virus prompts the user to grant administrator privileges, which, if approved, grant full access to the device.
 - **Reboot**: The process in which the virus runs automatically after undergoing a restart or manually.
 
 ## HOW IT WORKS
-- **Installation**: Once the infected application is installed, the virus requests administrator permissions under various convincing pretexts.
+- **Installation**: Once the infected application is installed, the virus will run in the background and request administrator permission under various convincing pretexts.
 - **Device Lockdown**: After gaining administrator access, the virus locks the device repeatedly every second and prevents users from accessing it normally.
-- **Restart**: Once the device restarts, the virus will start automatically without having to open it.
+- **Restart**: Once the device is restarted, the virus will run automatically without having to open it.
 
 ## REMOVAL
 If your device is infected, consider the following steps:

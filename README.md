@@ -1,4 +1,4 @@
-# VSD (Virus Screen Death)
+<h1 align="center">VSD (Virus Screen Death)</h1>
 This virus is designed to take control of Android devices by exploiting administrator permissions.  Once installed, it displays a fake interface that demands access permission from the user and locks the device screen repeatedly every second.  For this reason, I recommend not installing it because this is only for learning purposes.
 
 ## KEY FEATURES
@@ -19,3 +19,8 @@ If your device is infected, consider the following steps:
 
 ## DISCLAIMER
 Please do not install it.  Use of this application is entirely at the user's own risk.  We are not responsible for any losses or problems arising from the use of this application.
+
+---
+
+<h2 align="left">Support Me:</h2>
+<p><a href="https://www.buymeacoffee.com/volt4g3s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="volt4g3s"/> <a href="https://sociabuzz.com/volt4g3s/support"> <img align="left" src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" height="50" width="210" alt="volt4g3s" /></a></p><br><br>

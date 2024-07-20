@@ -1,4 +1,4 @@
-<h1 align="center">VSD (Virus Screen Death)</h1>
+# VSD (Virus Screen Death)
 This virus is designed to take control of Android devices by exploiting administrator permissions.  Once installed, it displays a fake interface that demands access permission from the user and locks the device screen repeatedly every second.  For this reason, I recommend not installing it because this is only for learning purposes.
 
 ## KEY FEATURES

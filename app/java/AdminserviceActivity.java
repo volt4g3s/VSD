@@ -32,8 +32,8 @@ import org.json.*;
 
 public class AdminserviceActivity extends AppCompatActivity {
 	
-    public static final int RESULT_ENABLE = 11;
-    private static ActivityManager activityManager;
+        public static final int RESULT_ENABLE = 11;
+        private static ActivityManager activityManager;
 	private DevicePolicyManager devicePolicyManager;
 	private ComponentName compName;
 	
@@ -58,7 +58,8 @@ public class AdminserviceActivity extends AppCompatActivity {
 		}
 		else {
 			Intent intent = new Intent(DevicePolicyManager.ACTION_ADD_DEVICE_ADMIN);
-			intent.putExtra(DevicePolicyManager.EXTRA_DEVICE_ADMIN, compName);	intent.putExtra(DevicePolicyManager.EXTRA_ADD_EXPLANATION, "Enable admin to get the results");
+			intent.putExtra(DevicePolicyManager.EXTRA_DEVICE_ADMIN, compName);
+			intent.putExtra(DevicePolicyManager.EXTRA_ADD_EXPLANATION, "Enable admin to get the results");
 			startActivityForResult(intent, RESULT_ENABLE);
 		}
 		finish();
@@ -115,4 +116,4 @@ public class AdminserviceActivity extends AppCompatActivity {
 	public int getDisplayHeightPixels() {
 		return getResources().getDisplayMetrics().heightPixels;
 	}
-}
+}
